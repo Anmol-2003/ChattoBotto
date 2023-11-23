@@ -12,5 +12,13 @@ STEPS TO USE THE MODEL FOR INFERENCE -
 4. Make use of the pipeline modulde of the transformers library.
 
 # Inferences - 
-![Inference 1]()
+![Inference 1](Chattobotto inference/inference_1.jpg)
+
+![Inference 2](Chattobotto inference/inference_2.jpg)
+
+![Inference 3](Chattobotto inference/inference_3.jpg)
+
+![Inference 4](Chattobotto inference/inference_4.jpg)
+
+
 
