@@ -10,3 +10,5 @@ STEPS TO USE THE MODEL FOR INFERENCE -
 2. Login to the huggingface hub from kaggle nb or colab nb.
 3. Load the model using AutoModelForCausalLM and its tokenizer from AutoTokenizer.
 4. Make use of the pipeline modulde of the transformers library.
+
+# Inferences - 
