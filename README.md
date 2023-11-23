@@ -12,3 +12,5 @@ STEPS TO USE THE MODEL FOR INFERENCE -
 4. Make use of the pipeline modulde of the transformers library.
 
 # Inferences - 
+![Inference 1]()
+
